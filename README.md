@@ -8,4 +8,5 @@ Project page: https://notou10.github.io/sadpad_official/
 
 
 
-Usage of the code will be available soon.
+Usage: 
+bash implement/run_dclipscore.sh
