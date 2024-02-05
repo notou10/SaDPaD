@@ -1,5 +1,5 @@
 # SaDPaD
-Code for [Attribute Based Interpretable Evaluation Metrics for Generative Models (SaDPaD, ICLR 2024 submitted)](https://openreview.net/forum?id=VZVXqiaI4U)
+Code for [Attribute Based Interpretable Evaluation Metrics for Generative Models (SaDPaD, ICML 2024 submitted)](https://openreview.net/forum?id=VZVXqiaI4U)
 
 Project page: https://notou10.github.io/sadpad_official/
 
